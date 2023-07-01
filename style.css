@@ -1,0 +1,9 @@
+label {
+    width: 160px!important;
+}
+
+.images {
+    width: 120px !important;
+    height: 120px !important;
+    object-fit: contain!important;
+}
